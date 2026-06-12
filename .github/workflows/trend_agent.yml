@@ -1,0 +1,53 @@
+name: Autonomous AI Trend Agent
+
+on:
+  schedule:
+    # 毎週月曜日の朝9時 (日本時間) に実行 (UTC 0:00)
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+    # 手動実行用トリガー
+
+permissions:
+  contents: write
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 google-genai openai
+
+    - name: Run Trend Collector & Analyst
+      env:
+        # GitHubのSecretsからAPIキーを読み込む
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        # 収集・分析スクリプトを実行
+        python scratch/trend_collector.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        
+        # 新しいレポートとSNS告知文がある場合のみコミット
+        git add trend_report.md scratch/social_posts.txt scratch/trend_raw_data.txt || true
+        
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-generated weekly AI trend report [skip ci]"
+          git push
+        fi
