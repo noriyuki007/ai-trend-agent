@@ -1,80 +1,80 @@
-=== Trend Collection Report (Generated at 2026-06-12 02:51:57) ===
+=== Trend Collection Report (Generated at 2026-06-15 02:30:46) ===
 
 ## GitHub Trending (Python)
 
-1. maziyarpanahi/openmed
-   - URL: https://github.com/maziyarpanahi/openmed
-   - Description: open-source healthcare ai
-   - Stats: 426 stars today (Total: 2,809)
+1. pytest-dev/pytest
+   - URL: https://github.com/pytest-dev/pytest
+   - Description: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+   - Stats: 14 stars today (Total: 14,061)
 2. NVIDIA/SkillSpector
    - URL: https://github.com/NVIDIA/SkillSpector
    - Description: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-   - Stats: 319 stars today (Total: 2,757)
-3. soxoj/maigret
-   - URL: https://github.com/soxoj/maigret
-   - Description: 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-   - Stats: 661 stars today (Total: 32,665)
-4. hexo-ai/sia
-   - URL: https://github.com/hexo-ai/sia
-   - Description: SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
-   - Stats: 199 stars today (Total: 1,346)
-5. francescopace/espectre
-   - URL: https://github.com/francescopace/espectre
-   - Description: 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
-   - Stats: 70 stars today (Total: 8,542)
-6. alistaitsacle/free-llm-api-keys
-   - URL: https://github.com/alistaitsacle/free-llm-api-keys
-   - Description: Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
-   - Stats: 96 stars today (Total: 2,238)
-7. karpathy/autoresearch
-   - URL: https://github.com/karpathy/autoresearch
-   - Description: AI agents running research on single-GPU nanochat training automatically
-   - Stats: 208 stars today (Total: 86,226)
-8. onyx-dot-app/onyx
-   - URL: https://github.com/onyx-dot-app/onyx
-   - Description: Open Source AI Platform - AI Chat with advanced features that works with every LLM
-   - Stats: 33 stars today (Total: 30,257)
-9. mvanhorn/last30days-skill
-   - URL: https://github.com/mvanhorn/last30days-skill
-   - Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Stats: 799 stars today (Total: 39,805)
-10. LLMQuant/quant-mind
-   - URL: https://github.com/LLMQuant/quant-mind
-   - Description: QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
-   - Stats: 324 stars today (Total: 1,209)
+   - Stats: 964 stars today (Total: 5,398)
+3. shiyu-coder/Kronos
+   - URL: https://github.com/shiyu-coder/Kronos
+   - Description: Kronos: A Foundation Model for the Language of Financial Markets
+   - Stats: 244 stars today (Total: 29,949)
+4. music-assistant/server
+   - URL: https://github.com/music-assistant/server
+   - Description: Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+   - Stats: 197 stars today (Total: 2,205)
+5. Free-TV/IPTV
+   - URL: https://github.com/Free-TV/IPTV
+   - Description: M3U Playlist for free TV channels
+   - Stats: 70 stars today (Total: 16,968)
+6. andrewyng/aisuite
+   - URL: https://github.com/andrewyng/aisuite
+   - Description: Simple, unified interface to multiple Generative AI providers
+   - Stats: 291 stars today (Total: 14,418)
+7. openinterpreter/openinterpreter
+   - URL: https://github.com/openinterpreter/openinterpreter
+   - Description: A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+   - Stats: 31 stars today (Total: 63,955)
+8. LMCache/LMCache
+   - URL: https://github.com/LMCache/LMCache
+   - Description: LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+   - Stats: 248 stars today (Total: 9,056)
+9. skypilot-org/skypilot
+   - URL: https://github.com/skypilot-org/skypilot
+   - Description: Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
+   - Stats: 17 stars today (Total: 10,155)
+10. home-assistant/core
+   - URL: https://github.com/home-assistant/core
+   - Description: 🏡 Open source home automation that puts local control and privacy first.
+   - Stats: 30 stars today (Total: 87,717)
 
 ## Google News: AI Agents / AI Automation
 
-1. OpenAI acquires AI agent orchestration startup Ona - SiliconANGLE
-   - Source: SiliconANGLE (Fri, 12 Jun 2026 00:41:43 GMT)
-   - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDgxOU16OUZPWXQ3Ml9LNjNEMlpFUVdndm9wSWp4dkFlRDJEdDhnTnQxczZ1NFU4T3FuSGVmMi1tOXhIa2t6blR0aVRxcm0tMExock4zYUJjcGVjbm85eEEyRW5MZDJRUkxCanBOWlRzMzJkcmdqTTRQQk5yeEw3M1JxVzdTOHFPT2pKdnp6aGY?oc=5
-2. Evaluate AI agents systematically with Agent-EvalKit - Amazon Web Services (AWS)
-   - Source: Amazon Web Services (AWS) (Thu, 11 Jun 2026 15:49:47 GMT)
-   - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQeldfMDFMWnNrN3oxZFJsMjVWSEtWaGtWdzRDR2pZVGxaWDlsb0otVEtTQ0dzR2R6blZjUENETm9WZGQ1R0xpUU03MGlyS0swTjlIWU5PRV9RcXd4UDlGSnZBVUw4NFR4N2hqNjFOdzVyQVhRaXdZdWVpMXhVU2hsUlAwWU1RZWpyQzgwZ2JjaHc5TGE4RzE2c1Z2RVFWWVRz?oc=5
-3. Coinbase Lets User Connects AI Agents to Trading Accounts - PYMNTS.com
-   - Source: PYMNTS.com (Thu, 11 Jun 2026 23:08:14 GMT)
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOOE5yQWVXNUR1cElWSUhjbjVjOVltWGFiX0pxMHg5SXlLbjQ0OVoxWFlMdC1vVVFYTDExR0x0V3VfTGI0WnZOZ296WXl0Tmh3QTdqUktHazhSUjRUa0xzXzliTVdTTTRTeXJEOWc1NTlLMUhfUExQaTJsODBVd3lUZFdTWFVSVE9IYWNWNGJ2dzRYeF92dldZTzA5eGlDU3Ezc0ZpdTJDTVF4X0JsNTRzWm8zRHRpQQ?oc=5
-4. Coinbase launches AI agent accounts that can trade and spend on your behalf - CoinDesk
-   - Source: CoinDesk (Thu, 11 Jun 2026 20:30:08 GMT)
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnRSOHk2U1A4bDU3Z0lzZ2RuZUZQbWhmYXZZT0pWM1JBWWhlNVlnazA0TUFMVDlUblZuR1BHanlSVTNpTGxFYXR2ejhldkRadnU2Z3M0c20zRlI0MmwtZFNpMWxIS19IZVdVUEZMX0NOUm84NERfeEcyRk8wbHhGRnV2SVpaYi1FeVg0WUQzOUhzbkdQdWhXM2NqM3BvY01sN1Q5VTVQQ1MzcVpnakQxc1l0R3RBTVk?oc=5
-5. New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets - The Hacker News
-   - Source: The Hacker News (Thu, 11 Jun 2026 17:46:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTFBncS1rYUdPVTR0dTNuWUg5VkU1OU9zODVMa09NdVFiNTd4SmdNd1ZoSDdMMEdEVFpvQXgxN2F5bmpjemlpX2dpbnJHNWROS0J2UU04eXliWjBfVU53RlZpNkpTVTlVWnF3VWRIb2wweU13TXo5RU9nWGdaOEtCb0E?oc=5
-6. Coinbase launches tool to let AI agents manage trading and payments - CNBC
-   - Source: CNBC (Thu, 11 Jun 2026 17:00:38 GMT)
-   - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTZwaGdVOS0xQWtnUW02Rk1oVVhoUVRkZDgyM1hxNnJqUlJRdXNaVEdTUzkzcnRESHExWFNfM1VULVFmeWtScHdFVFMwYUlZU1BxaXVma19PWXY2OFRpRzhFem02b0N1RVZDRVphRGUtUVh1OV9UcXpWMmREQkVzZmlBNGh0a2xjM0tHNW1MY1BXbGFpdUhJNUZTQ01ZQUJ6X0xES21MRdIBrAFBVV95cUxOSWJabm9kZnQyMjZiSG94eVVGQS1IS3BTNGJLdk9MaTBfekxXazFtbE9hQ1pmdGVCc1ZkM1FVQ0RsS3hUNlRQZTFpS1U3ZU4tWWpVeGJpVkRHOVZiZUQ0QUFyM1U0T3RWZ3QzQnFralJjWFV6dEJTR21BSWFweldwNVdEalVWOUFKV19Na3Bhbmg5RW1zcXJlcE9scW5LTjVLekpUeFFIQ28xUDBH?oc=5
-7. Trust No Skill: Integrity Verification for AI Agent Supply Chains - Unit 42
+1. Workday Bets On Trusted AI Agents And AWS Data Ties To Reignite Growth - Yahoo Finance
+   - Source: Yahoo Finance (Mon, 15 Jun 2026 00:15:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFJSWmF3TjRxNkpLNGtfYlA0Q29VUlFzVGo4VmttLTZvdkxoa0IwZXl4dGF3QmZBdkVSOWJscnRPanNLd293bWtRa0paS0dHbU1xYWJNSkUtaGNfR0JrTGNzbHVURmFvcFlkYUlaZUo5eWhFQU5WYXNQY1BHSjFuazhfaFYxZ1NXMXhXZGw5SGZucGtKN3dQdUl2MA?oc=5
+2. “52% of organizations already using generative AI have implemented AI agents in their day-to-day operations” - CTech
+   - Source: CTech (Sun, 14 Jun 2026 18:21:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sU0szbEF6ZERwZmt6UUoxWEZvZDFEVGJPZ1JQamRUa2hqVGk5QlRlNFktZVdfd3dxM1N6NlVrRFFjaEl2d2t4U1lRRjYwUm1mbUtlcDhtVEJYNGxYZzBmQ1B3YjEtQVA5?oc=5
+3. My John-Wick-Inspired AI Agent Team is Dangerous – Let’s Create Yours - inc.com
+   - Source: inc.com (Sat, 13 Jun 2026 10:13:53 GMT)
+   - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlBDNmxoaWtFaDlRWFFYOVpkU29pYklIQzMzWDZqSXdDaGpYUzFhM0RJT281c0pPR2F3b28wSzFuZk9DdF8xUUtDUkpyWGdvZXJGWDJKU2hUNlVGeC1zUHU3cUZDMGd1NE4ybjZEOFpobG1xLVFQRmJmZ0h1N05SdGUtS1FhaDlId1h6aEdKWEM0STRoRmNQbnlQamhuY25OYU1QbzVEa0NaVmh1?oc=5
+4. Robots Transform with Open-Source Platforms & AI Automation - Design News
+   - Source: Design News (Sun, 14 Jun 2026 21:39:30 GMT)
+   - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkpVR0FtLXNtMHBUenlmYkdwaXBzdU4tZG5fcnZmZEhNaGU0MHJiLTlSQmY4MnhFQ09SOEtKbUI0bS1tUmNTeFlOOXMybGNES0xTMEwxeUhFbkpYcWN1VHI3dzFMRFJPeEVfNnJxd3V0N1VJVTRZck5Cbi1UVDVIQ2dHWXg2VDVJc09oazJGeHgzdWpMQkFRWlFtOA?oc=5
+5. Trust No Skill: Integrity Verification for AI Agent Supply Chains - Unit 42
    - Source: Unit 42 (Thu, 11 Jun 2026 10:05:34 GMT)
    - Link: https://news.google.com/rss/articles/CBMickFVX3lxTE93dXFfTkdDMVliMHl2cVpFSkhHcS15TFd0WkN4Qy14eGdDT1ExQzVoamllWkNlXzVxaUR2M18zVWFrMlEwYl9Yc2lmSlc0WDNBYWVPeThwVEZmQk9FM2MtV2ZWSklMaE5NOGRJOFZPUTZEdw?oc=5
-8. IBM, Google Cloud plan to release industry-specific AI agents - No Jitter
-   - Source: No Jitter (Thu, 11 Jun 2026 16:56:17 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG1WZTZYT3ZKN3dWYmVUQlpiVEJfUjM5QmY1MDVlR1hQbHBnZndvNFBGY1hIOURKRkdjam5PSzJqb1pZLTI1TnNib0RHNWhSVUtMaGhqOS1CeTU5R1VheUl6cUJxeXhST1lEaXI5U0JoOFhPMXRSLTVOWmxPY1g4Y0drMkpkZThaRmpHZUhubU52WmxUTlZzNEhya0pmVWlrUjRJ?oc=5
-9. Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users - Decrypt
-   - Source: Decrypt (Thu, 11 Jun 2026 19:29:44 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2RBSFVQOWk2djR0TURfVmQtNzFOSWI4Z3c1amwycjRiWVZLTEFmV0YtazRPWGdnSXJqcmRPd3Y5TGpHMjhUU21xS1hSRFpzNlBiUElHQUlKbEJCTzBPY2NDSGNkM2tONzFUUkJ6MDExTVQ0VUsxeVlGVTlvN0lVWnRn0gGKAUFVX3lxTE9HMlEtOThOc1dudjhmYjE1UTZ0X3dEX3dTZV84cGtWMmxwVFpsZDdtTEN5NzhiVWdCdUptVUpWREliWlVWQ1JmY1NEQzdnTl94cV92eUl2d01za2VITWJ4QU5saUNRUVBwZXVRai14NFoxTGZXV3E3MHFIWVhaU3Z0cWxMOVU0RndfUQ?oc=5
-10. Digital trust under threat from advanced fraud, AI agents: BioCatch - Biometric Update
-   - Source: Biometric Update (Thu, 11 Jun 2026 21:09:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPXzFjUk92WGEwM2t2ZGU0M1ROcE1qZ0laZ2VZRXJaVE5lMy1CVGJkbXRXblVTNUdhTlpNbFk3SUdfeHBEQWdGb2hNTVZET09IeUUtVk1kU2xQNEJOZTVnZE5VSzYzcEZrUEdMeG9qLW5vdm9LMVgwbVhZa2J2VUxnM3lGQVgzMzdrS1BuVlBvaUtaM0Y3em1qcnlSNmd2QjUwWjBQUnYxYw?oc=5
+6. How Investors Are Reacting To HealthEquity (HQY) AI Automation Push Amid Cybersecurity Scrutiny - simplywall.st
+   - Source: simplywall.st (Mon, 15 Jun 2026 01:30:50 GMT)
+   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVZDQ2g2RklrU2JNVzRYT0pKR002TVU5S0JhQlloNkp3VkRRdTBvNzdCVFlHWXFFekNTdnFELTJ4eHF6dFRRLXlwb0ZjUGlEdkJJSW1XeWp5bnJkd1BIWUJ6VWN2N2hIT2k1MmhsZUtpdkdQdTFieVdnelEtQjM1SjZ3SGxjc0N6NlRCUnpaQTlmN2ltZEpLMm5NeUlpcUFQR3YybXRneWZRUm9PTWhYMHZCUEhrMWZ0ekZCZlVyRmR5VDE4VFVWeF9DeWbSAdIBQVVfeXFMUG9PaHJjOHYxZlFJUTFOeUxza1hFRDc3S3RUYmJtR3FES3dETDdfTUVvNUhOVTJzMUtZOXc2dG9Hdk5ISXBKMVFwbElZNUhRNVhJTUdqeTBCRkdsNjBYVE9fdm9EOVVCTVlBcUdZeTFEdzNMNnlIaWczU21CUlZQTzJRNHV6cGhkdWtDZFVSRW1wMF90My0zalR5d3BjQUFXdzhmdVJoX2x2VFI5aUZOcjJJLWJlbndJTzJ0VmY4aHljSVV4dkRhNExDYllQQkdUZTd3?oc=5
+7. Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents - the-decoder.com
+   - Source: the-decoder.com (Sun, 14 Jun 2026 13:32:09 GMT)
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FQMDQzMVJLME9tUVcwMURCU0g4WHVNdm1ybDkyRnRfVklkRW1nU1UzNUROMFJkRXM2ZHhVU0NOVVg5SzZkUXhXSlZyR21YS0JCdlFCOVlVdGZUbDBsZUsxWmJPZlJRd3QtNjJLOFZXQ1BwaVRfUzZ3WGg4RmpPVXpIenpqNU9zUzhEbXJYRGdvdjgwN25uZUNBdDVnaFZ3Ri1tZ2l0U094eFEtNmhrLXhHc01Ldw?oc=5
+8. RELAI Raises $6.9 Million And Launches Verifiable Continual Learning Platform For AI Agents - Pulse 2.0
+   - Source: Pulse 2.0 (Sun, 14 Jun 2026 15:11:05 GMT)
+   - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0t4Q3AwT0tySjY3ZXpVRzJCWVhyS294dDBuMTRZZWIyVUFjSVZrQTVfemVQdjVUczZMSFB4UTk3Y2ZQMVpPOGE1R21UQUswdXN3blp1MWVBeHlGUDlLeGQtRERSNWlUS0Y2TGp6QVpHYWwtTUpabHBSQnhCajhoZkhaRk9DVDNZMWdCc0NyTEo1eUstTERXT2hDLV81eS1XR2lDMkxZRU1MdkhsclEw0gG0AUFVX3lxTE91S1hIUGNtdG1fTjJmSXpkeG5LSHpQb2JnblM2SUtEMWZPZ0NGMWVzbHYzMGFneWx6Q0U3SnpuNDFQSFo2T2VxaElXY2d4eE1MRURXaWw0dWtEb3JlNGFfUDRxcmN3RVl2WmZ2ZDlFeFd2MmNZallKTm8waHJxQUxZQjE5V2VyNWFUOEcwS29TOFFhdVlkOFhwbGhfbGlSTmFHMk1NVmRhM1hUc3FKTDFEMFY2Rw?oc=5
+9. OpenAI acquires AI agent orchestration startup Ona - SiliconANGLE
+   - Source: SiliconANGLE (Fri, 12 Jun 2026 00:41:43 GMT)
+   - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDgxOU16OUZPWXQ3Ml9LNjNEMlpFUVdndm9wSWp4dkFlRDJEdDhnTnQxczZ1NFU4T3FuSGVmMi1tOXhIa2t6blR0aVRxcm0tMExock4zYUJjcGVjbm85eEEyRW5MZDJRUkxCanBOWlRzMzJkcmdqTTRQQk5yeEw3M1JxVzdTOHFPT2pKdnp6aGY?oc=5
+10. Human Consulting Group Launches HR-Specialized AI Agent "elizax" - thelec.net
+   - Source: thelec.net (Sun, 14 Jun 2026 23:08:28 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aX1pkbGpySURJc3JSSm1aUU9uVW1yZWNoM1pKNzFaa3RHX1RpakZYRmhyR1gwSmN4X19yV2lpbHlHU3c3QWdsY3o2a2lXY215ajVNazRKd05oeDhYNG1ORTFWMUg5eVk?oc=5
 
 ## Google News: Micro-SaaS / Solopreneur
 
@@ -87,9 +87,9 @@
 3. Own your income: America's 'solopreneur' business model is booming, from Florida to California - CNBC
    - Source: CNBC (Mon, 22 Sep 2025 07:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGkzeUhjcUotT21mUk4xVW1IeU1sM1YyNkNNRDNlTEIxLWlJbEVxdUlFMmxFbzRUQkdGTUxleHZ6VVVGWlgtRFlNZTNtUy03NUlvTmJpT3lwekZiMjROUktFVHFNaXMwTTNmQldkOGE2NmVFcWM2Z1dKdmFPd3VVazBJSkVZNUdmUjFGU1pB0gGTAUFVX3lxTE9BaWhkNGNCWWNtSTJmUXVqSkZ3Sko3V1p1V205bkgxX3E5WkFsRVRZZmx0ZVBGYkt6UzJYWXFIZGdfNG80WG9tQlpVWUYybms2V3hkU0ZpOG5qb01GY1lTWlFwdmlvQjBrNGNIYkg0Uk9ucUZGcnFnbFZoVXBFeEVvbnhfbk1BRmhqc01XUXoxS0R0aw?oc=5
-4. The 2-Person Dream Team That Outperforms A Solopreneur Every Time - Forbes
-   - Source: Forbes (Sun, 24 May 2026 07:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNejI5Wi00X2RydDQwNkN5OEI3dk9DUlR2Q3ZoTGNybXA1VWFxOGhCS0JvWmRLbWw4Q3VMOTlxZU1SNUxfYUhqTDctdlV5dzNtX3NUR0VfdnVLRGk3amt2QUlldEN5c1R5ajdXZE9MZFloZGdVa3RtY0g1UlNDS05TSFBLWEF4UVN5Z21LM3piTUVlQ3pjUU5XOVhBT1d4NHA0cjBRTEhiVkNSbko2UjBPX19kNHpoWnc?oc=5
+4. Launching and Scaling Subscriptions as a Solopreneur - Medium
+   - Source: Medium (Mon, 21 Jul 2025 07:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHhlSzV6TV90NG84c1ZTYl9GWjQ4a3pGckxaVHJDNjVSS3Q0YUYyaXNwcHZ6U3lyU1NOLW0yb0Jid21oeFYzUmMySm5FYVkxMFBsZlNjbkdFUkQza3lwMzQ4UEw5bkdWaXMtdFZtanhaZTQ3aURjdjNiSVVjaW9acE5JNV9haWlNbklCZmQweTV2VGN0VzJOdUpR?oc=5
 5. How I Built It: $30K/month Micro-SaaS (Subscribr Breakdown) - Yahoo Finance
-   - Source: Yahoo Finance (Wed, 03 Jun 2026 21:00:24 GMT)
+   - Source: Yahoo Finance (Wed, 03 Jun 2026 07:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZHRadTNveUhWRzhrQUJIeUp0b3JJdnE0Zjl2YmZjSkxVWWxxbk9iNy1FalRNTERsemhTVmpQb3A1ZE1ObW5JelVJRnVvVXQ0dmlxYXROdXpvX0JiXzU1bWhtVnpnR01Sc3l1WUZHMUlMWFdSOWotbjNDU0UyZw?oc=5
