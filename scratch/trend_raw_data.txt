@@ -1,95 +1,95 @@
-=== Trend Collection Report (Generated at 2026-06-29 02:08:16) ===
+=== Trend Collection Report (Generated at 2026-07-06 01:54:45) ===
 
 ## GitHub Trending (Python)
 
-1. commaai/openpilot
-   - URL: https://github.com/commaai/openpilot
-   - Description: openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-   - Stats: 266 stars today (Total: 62,423)
-2. xbtlin/ai-berkshire
-   - URL: https://github.com/xbtlin/ai-berkshire
-   - Description: AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-   - Stats: 1,445 stars today (Total: 5,430)
-3. Robbyant/lingbot-map
-   - URL: https://github.com/Robbyant/lingbot-map
-   - Description: A feed-forward 3D foundation model for reconstructing scenes from streaming data
-   - Stats: 372 stars today (Total: 8,259)
-4. cupy/cupy
-   - URL: https://github.com/cupy/cupy
-   - Description: NumPy & SciPy for GPU
-   - Stats: 174 stars today (Total: 11,539)
-5. opendatalab/MinerU
-   - URL: https://github.com/opendatalab/MinerU
-   - Description: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-   - Stats: 380 stars today (Total: 71,660)
-6. HKUDS/Vibe-Trading
-   - URL: https://github.com/HKUDS/Vibe-Trading
-   - Description: "Vibe-Trading: Your Personal Trading Agent"
-   - Stats: 492 stars today (Total: 14,383)
-7. usestrix/strix
+1. alirezarezvani/claude-skills
+   - URL: https://github.com/alirezarezvani/claude-skills
+   - Description: 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+   - Stats: 392 stars today (Total: 20,601)
+2. rommapp/romm
+   - URL: https://github.com/rommapp/romm
+   - Description: A beautiful, powerful, self-hosted rom manager and player.
+   - Stats: 410 stars today (Total: 10,558)
+3. harvard-edge/cs249r_book
+   - URL: https://github.com/harvard-edge/cs249r_book
+   - Description: Machine Learning Systems
+   - Stats: 329 stars today (Total: 26,862)
+4. usestrix/strix
    - URL: https://github.com/usestrix/strix
-   - Description: Open-source AI hackers to find and fix your app’s vulnerabilities.
-   - Stats: 122 stars today (Total: 26,776)
-8. browser-use/video-use
-   - URL: https://github.com/browser-use/video-use
-   - Description: Edit videos with coding agents
-   - Stats: 196 stars today (Total: 11,121)
-9. luongnv89/claude-howto
-   - URL: https://github.com/luongnv89/claude-howto
-   - Description: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-   - Stats: 312 stars today (Total: 38,819)
-10. frappe/frappe
-   - URL: https://github.com/frappe/frappe
-   - Description: Low code web framework for real world applications, in Python and Javascript
-   - Stats: 9 stars today (Total: 10,329)
+   - Description: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+   - Stats: 1,114 stars today (Total: 37,167)
+5. hesreallyhim/awesome-claude-code
+   - URL: https://github.com/hesreallyhim/awesome-claude-code
+   - Description: A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+   - Stats: 148 stars today (Total: 48,392)
+6. OthmanAdi/planning-with-files
+   - URL: https://github.com/OthmanAdi/planning-with-files
+   - Description: Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+   - Stats: 66 stars today (Total: 24,735)
+7. anthropics/claude-code
+   - URL: https://github.com/anthropics/claude-code
+   - Description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+   - Stats: 156 stars today (Total: 136,317)
+8. cheahjs/free-llm-api-resources
+   - URL: https://github.com/cheahjs/free-llm-api-resources
+   - Description: A list of free LLM inference resources accessible via API.
+   - Stats: 482 stars today (Total: 25,445)
+9. TauricResearch/TradingAgents
+   - URL: https://github.com/TauricResearch/TradingAgents
+   - Description: TradingAgents: Multi-Agents LLM Financial Trading Framework
+   - Stats: 257 stars today (Total: 91,085)
+10. bradautomates/claude-video
+   - URL: https://github.com/bradautomates/claude-video
+   - Description: Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+   - Stats: 368 stars today (Total: 3,552)
 
 ## Google News: AI Agents / AI Automation
 
-1. Tech: Let’s talk about AI agents - Punchbowl News
-   - Source: Punchbowl News (Sun, 28 Jun 2026 23:05:58 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNTFEN3pZTzlBTU9ZN282ZWF1QUtaR05tSHlBYzY2aUFsb1dWMFlPWm5YQ19vUDR4RFN3SW9fNkxVWU41ZEkzcnRVbGdFTUc5LWJXbDRPekxkdw?oc=5
-2. Where AI Agents Break In Production - InformationWeek
-   - Source: InformationWeek (Sun, 28 Jun 2026 22:00:38 GMT)
-   - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVNFY01jNmZQTzJ4dVBxYVJTcUozWmljZ2VnMW1TLS1VdThqNU1GWGUxQzdGT3hlWUxDekFDQ1pJVXoyZVNSdjNpN0lfbXpTaW11ME9YRUJVX3VPYzhiZDdCcElqVWhfRWNuV2FlcTlLSm5MZGR1ZEQycFJsR0NoWUpsQlNTS2pZUTdNRkdR?oc=5
-3. Improving the speed and energy-efficiency of AI agents - MIT News
-   - Source: MIT News (Thu, 25 Jun 2026 04:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUxSMXQ5NGtqVWFreXo4ekRhWUh2S1BlQU5lWW8yeEZpMy1iQ2t1aGYyRWJqeFdtQjM4dUpHb1VfMVpPTnN6eS02ZzQzOFVCRWJOeFpiaVI4X0hMcDZKWkp5Qm1la0x2WmhySWg0dW1BMElVZTZnUzFUNEllSE13d2s5MA?oc=5
-4. Does Latency Kill AI Agents? - Sebastian Barros Newsletter
-   - Source: Sebastian Barros Newsletter (Sun, 28 Jun 2026 13:42:43 GMT)
-   - Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE0zM2FKNWVkWnJObkxGUW5mMWxJc2NfMUlWanhzU3djVm1uQTBFclJjYS0wQkJ1dDY2eGFmNnJhdXcyNDhTMkZ5clpVQnljTkM2aDExWU1nNWdYdWZhSGxCSWlDc1AzdDhuRHgwMnNNc2YxREVs?oc=5
-5. Okta is the first to bring AI agent governance inside FedRAMP boundaries - The New Stack
-   - Source: The New Stack (Sun, 28 Jun 2026 13:53:31 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XcGlHV3FrTEJWUnJXMVdsZmxKMDNUdEJ0cFktTFdENVVvNlZxRW5KbkVEQ2M3dEhOMEdoSy1qc3JKSVZFZ1VuX21lX1hyczVtS3VYMG5ZQUZGQQ?oc=5
-6. AI Agents and the Unseen Work of War - War on the Rocks
-   - Source: War on the Rocks (Wed, 24 Jun 2026 09:02:03 GMT)
-   - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQclFQdTBWRDgwQzhzSW9VbEVjOWx0TGtqVDdpRG1ISmwydms1azhzUlN4MnlZdS1qcGZQZVhtR0d2TFBNTDRRWHV4YXRWZFZINkYtTVNNT1lvbGJZMHZiMTI2SGE1VzVvZ0RtU3NTa0ZDbFU2MHctQWRWaWZuWmVvaw?oc=5
-7. Building Alfred: An AI agent for modern engineering teams - Nscale
-   - Source: Nscale (Fri, 26 Jun 2026 13:34:37 GMT)
-   - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUZhRWJidVJGaEg0am1mMTA5OS1jTGg1cm5tRS05elhWZHZxSlN3Y25NeF9SV1lwb2JLU2pMSUkxZVl0d0dKbjNlVk9iaV8yWmYxeEppNmNOTFhCZEZSeF9jT2pnR0h3ZmFzREhlX1h6a0p0cmJFcUI5ZHFZUElQUU9JNA?oc=5
-8. Sail Research raises $80M to optimize long-horizon AI agents - SiliconANGLE
-   - Source: SiliconANGLE (Fri, 26 Jun 2026 01:30:20 GMT)
-   - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnM0V09GTlRCVXlUV0RVV0RnTlBCZHd0UkZlX01Wd1o5MjRzWE1nQ05qVHZURnY3dmJyeGZ5akdycEtmdUVoVG1aWDNHU1I4QUZEY1pzV2EtZldmUlNrRlNtNFY2UmI3M214NmdlMWkyZzJ3Y0x6M0RqNWJuWm5LQ3cxa0hTaHBtYVdIYlBZeUpoeTVrY3dQNw?oc=5
-9. When AI Agents Fail, People Ask the Wrong Question About Why - Tech Policy Press
-   - Source: Tech Policy Press (Fri, 26 Jun 2026 17:31:17 GMT)
-   - Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxQWW9VaWVSNzA1VmxtZm1jRFd2VkJnY0NtdExQQUlaSjFjbGNZRGVnUXdqQnlwZmpMYWNFWVQySTJWR2VsSWhaczRYLTNHVl9ScE1nVXRoWEMyMGFYQ09VRnltTlVPYkZDQjZxb2R4S3JCSHJzY0FTVFFVZDBVYlRsdGZtcGhpcUlGd25ta2ZCc2Z5OWs?oc=5
-10. What Microsoft 365 E7 means for startups building enterprise AI agents - Microsoft
-   - Source: Microsoft (Thu, 25 Jun 2026 15:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmVmb0FZLWRIRE9YQW01NzMwU3lvamFBbnFjN1FxMVVWZkFfLUZRVmZXU3BtRFZlSnMtRFUyaW9pam9vcGlySkEtams5WVZINzA0TXAtV2lGcDE5eG5RWk45a1VNb1NmMWVCMnhnM0xkbWhYVDZEQzlNQWZDXzRpNGI5d1NJeUk3SE5mQzZHeEZmNW11TS1hNGxBUllvUS1vdk9HRWR3MHNudS1vb1BKVG5JejR2RnJs?oc=5
+1. AI Agent Pulls Off a Ransomware Attack Without Human Help - BankInfoSecurity
+   - Source: BankInfoSecurity (Mon, 06 Jul 2026 00:11:15 GMT)
+   - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzgzUVNid1dCNVNUWUs2OERWeWVzdUs3dHRTekhiU3FxbjFYMEdoYVc4UU4yc0xQN3RGMndaLWpuTjFZS0o0QVRQcVZDZlV0MnBVN1c3N2FraDJNVkhMRmFLM0p6WU9nb1FnbVVTb3d1aVlQQmxWNldtQWxpa25oa3dxUU1XakxVVFo0N2c5UEtvbV93b0ZKTXlkVE8?oc=5
+2. Salesforce Charges Only for AI Agents That Successfully Resolve Customer Issues - thelec.net
+   - Source: thelec.net (Sun, 05 Jul 2026 23:36:37 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcjIwR0pTV2tDQ3RyWXhjZlZBcW9JVWR5alpPZ2NTbzNRN1RYdkhhQjJ5eE12MmFOc2k3RUhnQVpGZWNNNjdCVzFjZnB6NEFLNHpVWWJadTM4SkdVdEc2UTMxOVJkd00?oc=5
+3. AI's energy tax was already concerning. Research says AI agents are over hundred times worse - Digital Trends
+   - Source: Digital Trends (Mon, 06 Jul 2026 00:58:01 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2lMa2Nid1hTZkl3YzlOV2FXS1llSDVOTll6TVpkcU9TdDNUVjhGdzRRZ2NOZGJFSkZGUV96MEctd1lOWEpZd01yNVE3QUljQkJXS01BWTBIaG5FcHJuYS1GLVBnUmMwQ2RmaElURGxHdmE0SGw3QlRQQzhKT2JHWU1ncW9ZVWdDSC1Ub2haV1Q4SjhIcWtXT2pjaEU0ekJfOWE2bUZVUTVpQkcwdEkwT3pEa1BCZGktWWttRGZzSllKMjJnWDV0M0IyYw?oc=5
+4. KAIST identifies the “hidden energy cost” of AI agents for the first time - EurekAlert!
+   - Source: EurekAlert! (Sun, 05 Jul 2026 03:52:52 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oNWhqY3JHcjhzWWUtZk9ENjg5TUdYY1phRTU5TU1pTkVSd0pUT216VzJSQW51Y19ZdGlNZzZyR1dJYS00eFp6djhUSk5RSHRaeG9CcVRfRWlJZjk3?oc=5
+5. When AI Agents Get More Autonomous, the Human Becomes the Bottleneck - Stark Insider
+   - Source: Stark Insider (Tue, 30 Jun 2026 20:57:31 GMT)
+   - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXh6Z0NCMmZ2cmpfaV9SdWIyaTlPa1REdm9GVzdHU21NUkl2TllTYm1yaVFRc1ZuNndfYmg2NEVnS1dRbjBZVkkzMHFjc2NLbVBWUWllejk5RmZlak9PWDJyUkx3RU5wemIyQU1Ha3JwZGdKYVE4UmcwSmotRmYtczIyZVlCUQ?oc=5
+6. BlueVoyant Launches First Dedicated AI Agent Security Service for Microsoft Environments - iTWire
+   - Source: iTWire (Mon, 06 Jul 2026 00:44:10 GMT)
+   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFJsWm5YN2E2MjJPbFZDcDQ0Y0NUdDRpa1g0MHdMM3l3bEtnU0xKaGp4TThHeHRmNkJmNTBMd1BmeF9mQm5DWFFTYXBKZ01SaVN5aWdkcUJQbEtjd19mcEFxblBOcmVLdzdFRS13eHAwOE4tZHZFMHMwU0hFSDRfSDQtbl9mRmt4Nnc3QlVwY19wM3lTMFNBdFJJdEo2bVZlLVozZUNVMlNUeTl1YTk4UVU0S0F5MmFBNUNDSmtoUXdheXlmWDR3NjZkN3Bpdw?oc=5
+7. Your AI Agent Needs a Phone Plan, and Telcos Already Own It - Sebastian Barros Newsletter
+   - Source: Sebastian Barros Newsletter (Sun, 05 Jul 2026 15:32:40 GMT)
+   - Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1ET0oxRTNObm85eTBiUmE5NllmODVFeDBNTmhnemY3dTlnS05QcmYzTG9EeHFYSE5nS2FlZG9ZN2c5UHY1RjlwQmI2YW9SQ0lvcU9ZN0RjTDdOYVJidDd0bGlGbE9IeWhXMnZ1aDNxS0o4bWVhWkJqYk85NA?oc=5
+8. Federal zero trust faces challenges with AI agents - Nextgov/FCW
+   - Source: Nextgov/FCW (Thu, 02 Jul 2026 13:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQc01UZXhwOXBuM1FTMUNpVEpfY2k3TWlDN20tTkUtd0l3N1RWWTVCUjZsbzNOUHNPd0hJVl9NYUtyNGdHdURKbmlJZWVpRzVSNG1aay0wYnVlZ1lraVpHbm56Sy11WDZpR1JLeU1qYVdna2FocXU0TlJTZFl0dmVNTF9OM1oxcXlscWJNX094enAwTlQyTGpvTzdKcENVdi1qNkNWUk1CSURTU282X2Z4Tjk1Z1I?oc=5
+9. Mastering Agentic Techniques: AI Agent Reinforcement Learning | NVIDIA Technical Blog - NVIDIA Developer
+   - Source: NVIDIA Developer (Wed, 01 Jul 2026 17:13:13 GMT)
+   - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWFmZlhPRWhSNnA1c0R3VDY4RkFkc2tDQ0ZSdlltd1NkWHBXYnd6dHljNTdpNWMxc2hRTUlRaG1HWTE3QVNJbTNNUkx3NVhUX1NTc09IM2xuRk9FTGxTYWtjbjNnTzhsQl8xMnN2ZjZydkFDYmxidzRPdlUxX09JSVI5RmNEVldOUzB5aXRyeFEwcmFKY3lVNWJiaw?oc=5
+10. How To Keep Your AI Agents From Breaking The Internet - Forbes
+   - Source: Forbes (Fri, 03 Jul 2026 03:16:43 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVYwbG9VU2lhY3BvYlRyMnJUYk9FM3RESVRaNm82dTFYdHVra2llM1RzaVZfdzNoXzlNbkJqTnlibnZHY3EzdW1ZTE1VNWNiV1NUcFJqaVgzQi1Uc1VoUkZ3bzY0VDJJQ3Q4VEtYNjRod0xVQTU4V2dsRzFSZk1QZDBuM2dfVnp3TlNDUUw0VjVtSmNyTGY1Y2FqZEhyWHk0bkpsRWRHN0ZJS1U?oc=5
 
 ## Google News: Micro-SaaS / Solopreneur
 
-1. I Turned This Spreadsheet Into a $30K/Month Micro-SaaS - Yahoo News Malaysia
-   - Source: Yahoo News Malaysia (Wed, 24 Jun 2026 18:00:21 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXgxTVZQdk9HV0lGYUNVTV9LaEdqV0NYQUhoNVRlNTd3OHRrRi1FOHJpX21KamtFcFFDcW9hWjFPbGsyNUJlczJZcGxnOU5OVndTN0l6c1JDbTMwdm5wM3loNG8zS3M2U1NuVFNOSFFXTEt6aENkNFl6dGR4cDNTZU5JMlo1VFVG?oc=5
-2. I quit my VP job to become a solopreneur. I don't need staff: AI agents handle everything from invoices to proposals. - Business Insider
+1. I quit my VP job to become a solopreneur. I don't need staff: AI agents handle everything from invoices to proposals. - Business Insider
    - Source: Business Insider (Tue, 03 Mar 2026 08:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnNuTktjd0xYSFhvRU12Rkljd09XZ243bUhGLXQ2ZjNIbWJqOU5FT0htem5aZGJJemJQRU9sa01WeGVNYXpQaThVU1p4ak9weEJhQ21qOG1BY2lpVUo4ZV9rWEcyendYZno2WE9GTWV1OFg5UHhiYUVVbUJ1UVMwMGpXcHQzVHlKZ3Y5bQ?oc=5
-3. Solopreneur America! - Small Business & Entrepreneurship Council
-   - Source: Small Business & Entrepreneurship Council (Mon, 22 Jun 2026 12:30:07 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE55NlAyOTc3dW9IYjVlVUszSVRGV3hseWNHNmYtakQ1Z20xYmFLeWtPallGMFZ6YW1udFhGZ3lQZi1idlRRTFExWnF5cmtEVzFZUmhtV3RibUw5UklkWEF1a3hqUTY?oc=5
-4. Zoom Recognizes the Rise of AI-Powered Businesses of One with Inaugural Solopreneur 50 - Zoom
-   - Source: Zoom (Mon, 04 May 2026 07:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yWDZNZlhLYUpqa2tTZjhzS1pvdW9TVkY3a2V2MXJ4cWZ1eTk3WktsbTZ2clhrb2tueFp6QndHbm1EOERDbGFkdWJaSF9wZw?oc=5
-5. Affordable Virtual Assistant Introduces a Solopreneur Operating System for Mompreneurs, Influencerpreneurs, Gradpreneurs and Solo Founders - PR Newswire
+2. How to take a vacation as a solopreneur - Fast Company
+   - Source: Fast Company (Fri, 19 Jun 2026 07:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbXItcHRwaFVhNVY0M2JZU0FpM0xmX1A4ZDVQSDRfMGlqTkdmWE9nTS1paXItRERRcVlUVEQ2ZDBBaUZHbERpcFk2QXRmdkF2ZzBhb1l4WUJrMnB0NkRjSzdjbTFWN2VCMmt4VjBKMnFKVzVH?oc=5
+3. Affordable Virtual Assistant Introduces a Solopreneur Operating System for Mompreneurs, Influencerpreneurs, Gradpreneurs and Solo Founders - PR Newswire
    - Source: PR Newswire (Thu, 18 Jun 2026 19:04:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxPTU0xWFEyUFRISnpGQ1UyaG9KWDhXVWtDX3FtbVh3SlNfMjFSTVF2UjJMYkNMNTJKSUlVVHh3NXliTWsxckFnY1lZb01BSjVXdXBFMFJqV2o4ZFZVSnh1Wi1jd2hRNE5kZGNhTEdyOGNqbVlTRDhKYVdZNEk2dnJJQ1l5TU5selZQUWltUmtfOUFYM0JTUXdXbW9fdjQ3OWtTak10cVgwZ1A0THJqZ1J6R24wdFl0RmRXR3FlaF92eG5tb2dBZENlZURnamJETDkyRDRoZnBXZHVRUlU3d21ESl9qVW96RHFoZy12bHE2aUNBVVE5eEs5RGQtalB5VERuUkZEa1hnYkRPb211bU5mWDlEeFZneWlPTUd3NA?oc=5
+4. 4 Ways to Attract More Clients as a Solopreneur - inc.com
+   - Source: inc.com (Wed, 18 Feb 2026 08:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWpSOUVPa2hZakZvamdDNU11RVhmNHNybmItd3M2N3BpbzkzUE81eHJEU1lrXzd0Tml4VlJsS2NnWXNCUlUzclFYV0E1TU5jY2tiZFJNTzBvM3JFc3hmakZ3QnozaGlYdlZQZFNtRzBFejQxVVZMYU1VV3JUU1NscTFSNE1hRVdiY1dzQ2I1Q1ZrWDJKVlg2YlMxY1FuclhMX1lIb29tTU9UT25EOFpULU1qbw?oc=5
+5. Own your income: America's 'solopreneur' business model is booming, from Florida to California - CNBC
+   - Source: CNBC (Mon, 22 Sep 2025 07:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGkzeUhjcUotT21mUk4xVW1IeU1sM1YyNkNNRDNlTEIxLWlJbEVxdUlFMmxFbzRUQkdGTUxleHZ6VVVGWlgtRFlNZTNtUy03NUlvTmJpT3lwekZiMjROUktFVHFNaXMwTTNmQldkOGE2NmVFcWM2Z1dKdmFPd3VVazBJSkVZNUdmUjFGU1pB0gGTAUFVX3lxTE9BaWhkNGNCWWNtSTJmUXVqSkZ3Sko3V1p1V205bkgxX3E5WkFsRVRZZmx0ZVBGYkt6UzJYWXFIZGdfNG80WG9tQlpVWUYybms2V3hkU0ZpOG5qb01GY1lTWlFwdmlvQjBrNGNIYkg0Uk9ucUZGcnFnbFZoVXBFeEVvbnhfbk1BRmhqc01XUXoxS0R0aw?oc=5
