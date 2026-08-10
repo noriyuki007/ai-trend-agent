@@ -1,95 +1,95 @@
-=== Trend Collection Report (Generated at 2026-08-03 01:27:02) ===
+=== Trend Collection Report (Generated at 2026-08-10 00:47:00) ===
 
 ## GitHub Trending (Python)
 
-1. Panniantong/Agent-Reach
-   - URL: https://github.com/Panniantong/Agent-Reach
-   - Description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-   - Stats: 659 stars today (Total: 64,717)
-2. mvanhorn/last30days-skill
-   - URL: https://github.com/mvanhorn/last30days-skill
-   - Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Stats: 206 stars today (Total: 56,884)
-3. abus-aikorea/voice-pro
-   - URL: https://github.com/abus-aikorea/voice-pro
-   - Description: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
-   - Stats: 355 stars today (Total: 11,980)
-4. NousResearch/hermes-agent
-   - URL: https://github.com/NousResearch/hermes-agent
-   - Description: The agent that grows with you
-   - Stats: 468 stars today (Total: 224,330)
-5. Huanshere/VideoLingo
-   - URL: https://github.com/Huanshere/VideoLingo
-   - Description: Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-   - Stats: 31 stars today (Total: 18,022)
-6. SimplifyJobs/Summer2027-Internships
-   - URL: https://github.com/SimplifyJobs/Summer2027-Internships
-   - Description: Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
-   - Stats: 56 stars today (Total: 45,719)
-7. bytedance/deer-flow
-   - URL: https://github.com/bytedance/deer-flow
-   - Description: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-   - Stats: 356 stars today (Total: 78,989)
-8. sherlock-project/sherlock
-   - URL: https://github.com/sherlock-project/sherlock
-   - Description: Hunt down social media accounts by username across social networks
-   - Stats: 462 stars today (Total: 88,015)
-9. ccxt/ccxt
-   - URL: https://github.com/ccxt/ccxt
-   - Description: A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
-   - Stats: 15 stars today (Total: 43,497)
-10. Emily2040/seedance-2.0
-   - URL: https://github.com/Emily2040/seedance-2.0
-   - Description: Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
-   - Stats: 118 stars today (Total: 5,913)
+1. vitali87/code-graph-rag
+   - URL: https://github.com/vitali87/code-graph-rag
+   - Description: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+   - Stats: 96 stars today (Total: 2,982)
+2. google-deepmind/weathernext
+   - URL: https://github.com/google-deepmind/weathernext
+   - Description: 説明なし
+   - Stats: 86 stars today (Total: 7,085)
+3. ZhuLinsen/daily_stock_analysis
+   - URL: https://github.com/ZhuLinsen/daily_stock_analysis
+   - Description: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+   - Stats: 306 stars today (Total: 61,189)
+4. goauthentik/authentik
+   - URL: https://github.com/goauthentik/authentik
+   - Description: The authentication glue you need.
+   - Stats: 310 stars today (Total: 24,272)
+5. google/skills
+   - URL: https://github.com/google/skills
+   - Description: Agent Skills for Google products and technologies
+   - Stats: 528 stars today (Total: 17,221)
+6. Comfy-Org/ComfyUI
+   - URL: https://github.com/Comfy-Org/ComfyUI
+   - Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+   - Stats: 365 stars today (Total: 125,516)
+7. harveyai/harvey-labs
+   - URL: https://github.com/harveyai/harvey-labs
+   - Description: A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+   - Stats: 47 stars today (Total: 826)
+8. funstory-ai/BabelDOC
+   - URL: https://github.com/funstory-ai/BabelDOC
+   - Description: Yet Another Document Translator
+   - Stats: 55 stars today (Total: 9,228)
+9. virgiliojr94/book-to-skill
+   - URL: https://github.com/virgiliojr94/book-to-skill
+   - Description: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+   - Stats: 568 stars today (Total: 19,438)
+10. vladmandic/sdnext
+   - URL: https://github.com/vladmandic/sdnext
+   - Description: SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
+   - Stats: 24 stars today (Total: 7,281)
 
 ## Google News: AI Agents / AI Automation
 
-1. OpenAI Finds More AI Agents Have Broken Confinement - PYMNTS.com
-   - Source: PYMNTS.com (Sun, 02 Aug 2026 22:52:01 GMT)
-   - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxObUNPRV9EYmpOcndqN3FvM0ducFVtNEJyZTRwWjNVZkQ2aThFc1dxU0hMWmZXRHJRaXprRll1SnVzZ2Qwemp4d3U0TnpoWnB3aFVDeEs5RkszYkhlOVlxOXRodzZWa05IVGh5NXNtVjdma2dXVkNNTUdjdUliYUJObVRhdDFfczNRcUl6djdR?oc=5
-2. I Replaced a 15-Minute Booking Process with a LangGraph AI Agent - Towards Data Science
-   - Source: Towards Data Science (Sun, 02 Aug 2026 13:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0tiUk1wUEE3bzJkSVplUkZzUUl0aHYtR3VSX0ZmSWxGMGI3TnlDMXlxSFd0bEFlRTkwU1YtMG81SDdQbFdFbndObVRrOWExMGNIc05Mc0JhN0hha2hBZnRXenNybzEtTkFHOW0wLTZGLXZkYURlbmNCQ2lQd0lBVzdBSUdkNDg5WjFXUnh3d1pqdU5IZ2RiSTNfeE8?oc=5
-3. Four Ways to Deploy More Secure AI Agents | NVIDIA Technical Blog - NVIDIA Developer
-   - Source: NVIDIA Developer (Thu, 30 Jul 2026 21:28:21 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkFfSURFMGM4MGlmWkEzUmphSm91azlxem9NTmotTVQtZGZGSkt3Sm9QZ2pMb2EybnV0aFVxM0dpbzN3OWIyeDJ0bEgwa3ZLMVk2aEg2WlFIeHVoN1FFT3R5SnRCMEVvSGwwbDJ5bjdCNU41SHgxNFpiSW50eXliOUNB?oc=5
-4. Former Palantir and Torq veterans raise $8 million Seed to secure the rise of AI agents - calcalistech.com
-   - Source: calcalistech.com (Sun, 02 Aug 2026 10:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE52cjNJWXpQeWdfVEVtMVN1Mk1WblNhckhnWkpRWFJDZTVDS3hWYnd5ZXdqdmthXy1zV2xmOHdKUXM4N09jT0FFV0RpQXY0TEFiQWZsYV81TlVHbVJxWDVGaV9iM0VXQ2pm?oc=5
-5. OpenAI agrees to independent review of agents’ Hugging Face hacking incident - EdTech Innovation Hub
-   - Source: EdTech Innovation Hub (Mon, 03 Aug 2026 00:00:49 GMT)
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTFteHliUGlrVDlpRmY5dkoxSDB4dUtkSXAtaFVlams2Z1VkYjBNTkNSaXFrVzlGVndWZ2xaSVhYdjVqZGpldWlKTFVZTy1BOWZMS0JGQUtFa05ZaDBwM1l3R2lqcmc3TktCcWZ0eEJWS0ZneUc5MktNX0F3b2tMamVPelZ6ZlZwSWtTMnRWTkd4WjZsSHA3X3AyalNPWmd1TzktRHZnN3ZqMzVnWmhpWnJUb3Vjcmc?oc=5
-6. OpenAI investigates additional AI agent containment breaches after Hugging Face incident - The Business Standard
-   - Source: The Business Standard (Sun, 02 Aug 2026 22:24:06 GMT)
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFRvcGNuQUhYUWVvcEpEd2xiNnI1bVlyNjUtdk4ybGdJa2RjWEFkT0ozVXhGMmM2djg0MVBmMTVzeEV3UUZlRnNKRGhMVlhjYzNPMmlGS0V5eVk4dDR2NS1haHlpR00wczFuTkxfT1VPXzczaDZNT09rb0tnenpzNGI1U3FieDJpODhsOERPZXlRb3NlUlBQblRMNFNYSVdLNHhaQzgzZXFpWFMtRDVFeFh4UFhMTkXSAbwBQVVfeXFMTXRkNnRzNWVGcXFKbnpiSFU1cS1idUlGbjIzVUhGMzdaQXdSQ2VPcWlzT05uZTRZUkpPWm14YXlHM3E0WEFLeE9pLUdSVENtcUVvQWhmdl95bUVkeWdreEZabW9Dc2VwNldpelczOGpCaFNBdkZwRWFlendIR01seEZabEthOVlVT3NMdTRCWnFJVjhpaDVORlZObWtIOVQwXzhzV0xDYkRLclV1YjJKQktxR0hRSklZWjEzXzk?oc=5
-7. Anthropic Incident: An AI Agent Published a Malicious Package to PyPI and 15 Real Systems Ran It - StepSecurity
-   - Source: StepSecurity (Fri, 31 Jul 2026 19:13:59 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0RsN29ybFdjZTA2SEdkVlNrd1lUMTNZZFd3NFJTWHVaZ0F4Q3hoQlg3ZTFuX2pmMC1MVVEya0tBbXNnd1VrVXFUc0FzX2pvc2JPaW9HRk9yTUdmQy1uN1BqazBZMmtTSG1JU0MyeGN0VkQ5YjRXQzQ4cDZHWXhtUHYwX2U0c2dpcGw0?oc=5
-8. Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears - Benzinga
-   - Source: Benzinga (Sun, 02 Aug 2026 15:30:27 GMT)
-   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTV3R3Q2YkVCWFZqcEJtWWxMWjBlZldJZUtKMExlRWpMQVp3T0lINEZ3NndFbnNPeDF5NEpjMUdsbGwtUGtqZFRBYzJHSVRQZkI2NE9mNjN5RXoxNnZldWdkei12RFhnWHNKYjhpeHl6SzduaGxMUDhTRTUwWm1lZTJ4MngwNlhYaWszSGJMT3RGYl9qVzU1NE9lXzBxT0hnVFFTdjJQV0pGbEhYbDdMNWFtamFubVpvcjNWSzcyd180QU91Z1RKc2NXM05MQQ?oc=5
-9. AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed - Forbes
-   - Source: Forbes (Sun, 02 Aug 2026 01:52:25 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXRmTGxuNzJYbE9wa3JYVHNfeHEzRTZLd2JlZXNjMThMTUVCOG5YZXd4Z0RpR194c2hGYTlzQ2pORnR6bGlOSFN6UE1ZdEFoWFlsdWlRNlB2a0FjeWtwaXN4V0FsSFl1cVFYc0dsNDVQQ09zbkdtaWFTRVZfbmJNb2tXbkZZVDlPTEdCWHFKNjU4TWpycEt2YWxSZ3FaaDhnVnFRM3BLdm1BWDNXVWk2ZnpqSkZoZEd6QVE?oc=5
-10. Meta AI uses a second AI agent as a memory coach to keep long tasks on track - the-decoder.com
-   - Source: the-decoder.com (Sun, 02 Aug 2026 12:59:26 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPanp1NWdVLUd3U0RWQWx4cVdubFJwM09YRkdUTjZadGZXRlJ2U0l6OFpoenVwU1JsQVU1Qkk3dzd1aFhGNDFfVWtTOWFNZV9fNTJyclpZaXRvSkRZRUVHdkgtdmZNUklvYm1LWVA5dXdtemJBTDMzSEJhMzdzOEJ3dUJwdUlFem0xY1U5UFhCcWpXTWVQeEM2NU5zbHdDSlh5Z1M0?oc=5
+1. Anthropic AI agent created fake accounts to trick real people in security test, AISI says - FOX 10 Phoenix
+   - Source: FOX 10 Phoenix (Sun, 09 Aug 2026 22:53:46 GMT)
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUJJeWh2bTR1VVI2TWwyMnNpUklyMTlwXzhVQUdBLUpPOEt6dUdDSlNPaHE3c3pac0tESV9kaFBhTW81WndmY1dTaThrRlU3a0J3cnFZWWVZTi16by1VT25HZ2wtVFlld2xUSXNIX09od3ROck5STUZnSGlsd1lQVXZ0U1VvTkM2eDVuQU41THFxNVFPWmVjT19IWVRNN3FxSG5UMHpvOVlVYWU4blNuQjNLR2pRSkk?oc=5
+2. You’re Giving AI Agents the Keys to Your Company. Who’s Watching Them? - inc.com
+   - Source: inc.com (Sun, 09 Aug 2026 19:19:52 GMT)
+   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDk0blhaR3FkTmpQT29FOXFOa1dzbnFyd3A5SW05cW8wM2JCbWJUUmFsdWlvU05qeUhsUXBMM3ZZSFNDU21rNDhBaEZEVnl6b1hXTFlwRG9JX2ZQSkVFLTYzUG85MFQyeV9QaWpqdE0yeFlIcmVmSXdiQ3ZmSzdoY3Z5Qi1VaTZYNUVOWGtiQ2VrSGd0UlVidGlCQ0Z3MWxIUFB5TldVdzNCQWdfM0NsbHBR?oc=5
+3. How AI agents can power the S&P 500 higher - Yahoo Finance
+   - Source: Yahoo Finance (Sun, 09 Aug 2026 12:30:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxORlhmNTJhUElUTVhUYlRteE52QllwV21UaW91UDZ5cERpMWNzTDFqbFFlWklVMVJ6SGNCNlJGZTZWWFdfZDhpWUo2ZFQtRkUzQXFNODZ5ZU0wUEpsdWl0ZkpZNXBENjczakR2ZFhoQkk3SnkyMlJ0bXUxZjBhTDZ0b2J1bDRtak90NmJpQUJRMTRZTWJEUWRZVXZfRkNUOXc?oc=5
+4. Experts find AI agents can be tricked into 'remembering' fake facts for months — so how do we stop it? - TechRadar
+   - Source: TechRadar (Sun, 09 Aug 2026 23:05:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV3J6dTQzMGVpRF9RTTBOdTV1TVVyM3hZaEwxdEtJZDNFM3Q0SkRqME02S3hZWjdPeUNpOEFvbXo2eWEwTUhvMTZOZEtianczT2hISC1PQ1BlN3Q0SEJsR3lkcllVYlljVXVqN2h5MWtYdkI0bWdfdFpGMlFjREd4RTZSTXRVVTZubnR2VS1EbFpfYnktWTUtWUtWcmZoRGEwSVFZWGtFOFVQR3pYdEo5SXZWNXhZS1FSdnhQUGdHODlLMURLZmZleWlKOEZ6TjEwWFE?oc=5
+5. KPMG Says Nearly Half Of Executives Pulled Back AI Agents Over Cost - Forbes
+   - Source: Forbes (Sun, 09 Aug 2026 04:59:28 GMT)
+   - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHFlS19GVFVKMmY0S0FuSnRvZlBSeWFIVkVFYlZTZU1YWFpPWnAxN3ltTzhJc0ppVTltUEpQdDI3UGdQaEgtOG9iOW1qa1MxVDdvWG1IZUlwUWJZS0l5X0pYRmxBYkE3djl3YV8zN2t0MjE0SnQtU0JtR25wM2FJWFE2SlN3SmtocW1IbkNhaW5sdUFEa1hVNndyb2tPSlFUWXJhNEw4aXh2ODBMSGd6WG9qa3Z0TGxPQVk2Ng?oc=5
+6. Scientists deploy AI agents to accelerate discovery of new materials - anl.gov
+   - Source: anl.gov (Thu, 06 Aug 2026 12:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPTF9sUmZVZnI1N2xvVXpqMnhwaWVVa1V2NWk2MUs5cGFtel8yWUpZeGN4WTVpQUtpRjBxc3Nhd0FGbUwzYS1JTGU5NGhBUTFGMlotT1JGSGdjdXl0VHl2czNUY0E5TzZqUF9oNlVweTNaOENCOVZfRDJjOUI0clA4cC1VYy0xSnlWdEd2THg4SHZ0SWNQdk9GU2RhcE8?oc=5
+7. Securing AI agents with temporal policies in Amazon Bedrock AgentCore | Artificial Intelligence - Amazon Web Services (AWS)
+   - Source: Amazon Web Services (AWS) (Thu, 06 Aug 2026 18:57:55 GMT)
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxObS05eGlHQ3Y2ZGVVQzFIWTdPU0wzOUpVcUk1elFSdjlEU0plR2xWTmdUUUNMbVc0SFhsR1BTaF9CMHU5b3laU2JBNE13dWlxQlU5Ymhrd3N0cU4tZ3pGdVhyRnh6cGpXcHgzcENybnVfMEZwZERYTUNMV3FoNXg0eThrWnhsWGE4em1VZ1o2TkhJWk1hMFNOM09OV2dGS2otSktlWXN1YXhKeFpHZ0RWdUZYa2Fabnc?oc=5
+8. Alibaba Is Teaching AI Agents to Make Money - Explainx Substack
+   - Source: Explainx Substack (Sun, 09 Aug 2026 16:02:08 GMT)
+   - Link: https://news.google.com/rss/articles/CBMickFVX3lxTE8zU25OamxMaDFKMHBOR2tmd2VwUXI1R1l1V3IzUGFwZEp5TzRiaUVkcDcxM1h3dW5YSXpVZ3dCVmd2dEwxdGwwYWI1cWRJVUhnVnQxNkJhTkdXWVZfTV9qOEdHYWVzVVlGdzFPNm53aGtFUQ?oc=5
+9. How Zoho is Helping Businesses Adopt AI Agents - Cyber Magazine
+   - Source: Cyber Magazine (Fri, 07 Aug 2026 07:20:02 GMT)
+   - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXhlQkpwWVdVMTNPeUpFZlNMT1RzUnBPdFo4YVVjYklxRlFVRzdxbVRBaEttcm9CdjRmaEJnU1FsNmFCX296bjlXbmI5MEVaWHlCZW52Vi1tQ2lrVmlsTmw3VTFadzkzS2J3NERSbTFJaUdkQjQ5aXM4TWcycVk4VzZsQQ?oc=5
+10. Who Is Liable When an AI Agent Hacks a Third Party? - JD Supra
+   - Source: JD Supra (Fri, 07 Aug 2026 17:45:07 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTQtVUFwTG15UzJrOERVR0JpRWNIOUZsbDNFMzBtRExXMUxteDc2bHdBLVZfSGJqRVhJUGZ0ZUl6RndsT1Q4ZmZxeHp2UWNNcGI4OF96X1ROWnlrM1dYanh5aW5XQzZtX0hxQWNXMWV0TGdSNy1wRFd0RGM5S2FBaEFkME9vNk44?oc=5
 
 ## Google News: Micro-SaaS / Solopreneur
 
 1. I quit my VP job to become a solopreneur. I don't need staff: AI agents handle everything from invoices to proposals. - Business Insider
    - Source: Business Insider (Tue, 03 Mar 2026 08:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnNuTktjd0xYSFhvRU12Rkljd09XZ243bUhGLXQ2ZjNIbWJqOU5FT0htem5aZGJJemJQRU9sa01WeGVNYXpQaThVU1p4ak9weEJhQ21qOG1BY2lpVUo4ZV9rWEcyendYZno2WE9GTWV1OFg5UHhiYUVVbUJ1UVMwMGpXcHQzVHlKZ3Y5bQ?oc=5
-2. Getting started with vibe coding as a solopreneur - Fast Company
-   - Source: Fast Company (Fri, 17 Jul 2026 07:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1BbWs2ekVkWGs4b3hWaGRuNjRwZWJubXdyYmVkV1B2RnVOQ01uTUxmSjRPb1dwUThpZFpaU0hBRTVwQVdTX2JMUGpTZGtvaVRYdlphcURXbmJ5bVZjZ3Q3VkpidFUzaVVUNlJWSnhxREpfWWVO?oc=5
-3. AI Startups, Solopreneurs And Actual Numbers - Forbes
+2. Workforce Directory launches flexible Solopreneur subscription for workplace specialists - The National Tribune
+   - Source: The National Tribune (Sun, 09 Aug 2026 21:35:08 GMT)
+   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDkxQ1l1STV3aThuM1pOOVB6Yjk2eXp6S3ZlcXUyX0xXLVdnNExuWHdZSVFEWGt1WmdqQmpGTkF0RnZlQmtqS214dkhYelNDSlZZNEpGWUl5NXB1RUdyWUJ0MF9BU0xkY0MtdTVBS0lJZkVKQ3FiVHBUaDNYc2NRenhyVW5aODk3YWFtSGVjYm1sSXY3djFfSE1rbV8zNVZxbXlONzR6XzcwOW45cEl3MTlrSWprLTBLdFZ6V05HZ0F2UQ?oc=5
+3. Ben Broca's AI company hits $10 million in revenue with 10,000 customers — and he's still the only employee - moneywise.com
+   - Source: moneywise.com (Mon, 03 Aug 2026 14:01:05 GMT)
+   - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1ZvaFo4ODR6N0dOUEw4MjhtbTdHa1p4TzNZWlhUZ292N3dlSEhvRVQ1UVkxX2Z1akZsc1NDOEVBRUR6RG1RWHJ6aTZtWXFwMHZjcDhyRDUwbEE5djJ1NXE1eHphdlpBTWtfb29xbHFJQkY5X0VpMnFCRmVTckFnSUttQUZpbmZabzZhQ1RxUUxZeklr?oc=5
+4. AI Startups, Solopreneurs And Actual Numbers - Forbes
    - Source: Forbes (Sat, 18 Jul 2026 07:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmZHMEFvTW1nSmFqZ2VqdHNLM21qblh0Rk1Jd1dhY3dFRlFyWE13RWcxRDlEWWNENjBhcXF4WVFnSHJOT0tQMFFRNHRLQjFYZ1NjQ2tSeExWclJobjhOX0N5RVJDMkcwcVZ2aGR3ZTAtU3drLUZuYnUwQ2djZmh4UGpvYzdpcmtaaUVCUEZVTHJ0Z0toV1pjZXRPOA?oc=5
-4. Solopreneur businesses are on the rise - readthepeak.com
-   - Source: readthepeak.com (Fri, 31 Jul 2026 10:02:06 GMT)
-   - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZkozMDVlY2w2TTBDcDNWMXNGVnBHcnZmcXBWcVBkaWs4LTJaMGJkZFMwRFRuWkpIX19DejRhTHFEQ3J2akVWUUhLY2hMR2N4ZGVwMVo4RlhZYW83VjVQaHdHRWVDWkNyR0F0V1g4X1BBMHR1ZmlF?oc=5
-5. 4 Ways to Attract More Clients as a Solopreneur - inc.com
-   - Source: inc.com (Wed, 18 Feb 2026 08:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWpSOUVPa2hZakZvamdDNU11RVhmNHNybmItd3M2N3BpbzkzUE81eHJEU1lrXzd0Tml4VlJsS2NnWXNCUlUzclFYV0E1TU5jY2tiZFJNTzBvM3JFc3hmakZ3QnozaGlYdlZQZFNtRzBFejQxVVZMYU1VV3JUU1NscTFSNE1hRVdiY1dzQ2I1Q1ZrWDJKVlg2YlMxY1FuclhMX1lIb29tTU9UT25EOFpULU1qbw?oc=5
+5. How I Work: $40K/Month Solopreneur - Yahoo Finance
+   - Source: Yahoo Finance (Mon, 03 Aug 2026 05:00:00 GMT)
+   - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE4xM0pJTG01VmpVYWxzXzJpNi03UnY2V01fOVV5S3l1Sk1rR3dBb0lOdzNNT253WVE1OFlwb0lnbGJ4My1lRE9KR1pKQW8tV0RjTUZ2Nk5JRkV1WTh5eVBFc0REeld6ZTA4eDM3M2dSVGZXMUFpMVpR?oc=5
