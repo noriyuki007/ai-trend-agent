@@ -1,95 +1,65 @@
-=== Trend Collection Report (Generated at 2026-08-31 01:56:47) ===
+=== Trend Collection Report (Generated at 2026-09-07 01:33:33) ===
 
 ## GitHub Trending (Python)
 
-1. K-Dense-AI/scientific-agent-skills
-   - URL: https://github.com/K-Dense-AI/scientific-agent-skills
-   - Description: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-   - Stats: 1,114 stars today (Total: 39,358)
-2. p-e-w/heretic
-   - URL: https://github.com/p-e-w/heretic
-   - Description: Fully automatic censorship removal for language models
-   - Stats: 369 stars today (Total: 29,200)
-3. unclecode/crawl4ai
-   - URL: https://github.com/unclecode/crawl4ai
-   - Description: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-   - Stats: 221 stars today (Total: 80,260)
-4. mvanhorn/last30days-skill
-   - URL: https://github.com/mvanhorn/last30days-skill
-   - Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-   - Stats: 230 stars today (Total: 60,523)
-5. pollen-robotics/microduck_rl
-   - URL: https://github.com/pollen-robotics/microduck_rl
-   - Description: RL training environments for Microduck (mjlab)
-   - Stats: 168 stars today (Total: 809)
-6. handsomestWei/patent-disclosure-skill
-   - URL: https://github.com/handsomestWei/patent-disclosure-skill
-   - Description: 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-   - Stats: 62 stars today (Total: 5,708)
-7. livekit/agents
-   - URL: https://github.com/livekit/agents
-   - Description: A framework for building realtime voice AI agents 🤖🎙️📹
-   - Stats: 132 stars today (Total: 13,768)
-8. abi/screenshot-to-code
-   - URL: https://github.com/abi/screenshot-to-code
-   - Description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-   - Stats: 418 stars today (Total: 76,412)
-9. warpdotdev/common-skills
-   - URL: https://github.com/warpdotdev/common-skills
-   - Description: 説明なし
-   - Stats: 71 stars today (Total: 451)
-10. 666ghj/MiroFish
-   - URL: https://github.com/666ghj/MiroFish
-   - Description: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-   - Stats: 53 stars today (Total: 71,781)
+1. NousResearch/hermes-agent
+   - URL: https://github.com/NousResearch/hermes-agent
+   - Description: The agent that grows with you
+   - Stats: 520 stars today (Total: 242,567)
+2. openai/skills
+   - URL: https://github.com/openai/skills
+   - Description: Skills Catalog for Codex
+   - Stats: 46 stars today (Total: 25,629)
+3. blader/humanizer
+   - URL: https://github.com/blader/humanizer
+   - Description: Agent skill that removes signs of AI-generated writing from text
+   - Stats: 748 stars today (Total: 44,278)
+4. The-Swarm-Corporation/AutoHedge
+   - URL: https://github.com/The-Swarm-Corporation/AutoHedge
+   - Description: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+   - Stats: 142 stars today (Total: 4,743)
+5. sooryathejas/METATRON
+   - URL: https://github.com/sooryathejas/METATRON
+   - Description: AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
+   - Stats: 68 stars today (Total: 3,962)
+6. ahujasid/blender-mcp
+   - URL: https://github.com/ahujasid/blender-mcp
+   - Description: Community plugin to control Blender 3D with any LLM of your choice
+   - Stats: 204 stars today (Total: 27,271)
+7. maziyarpanahi/openmed
+   - URL: https://github.com/maziyarpanahi/openmed
+   - Description: Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0
+   - Stats: 13 stars today (Total: 5,247)
+8. earthtojake/text-to-cad
+   - URL: https://github.com/earthtojake/text-to-cad
+   - Description: A library of agent skills for CAD, CAE and CAM
+   - Stats: 80 stars today (Total: 14,509)
+9. home-assistant/core
+   - URL: https://github.com/home-assistant/core
+   - Description: 🏡 Open source home automation that puts local control and privacy first.
+   - Stats: 35 stars today (Total: 90,295)
+10. Comfy-Org/ComfyUI
+   - URL: https://github.com/Comfy-Org/ComfyUI
+   - Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+   - Stats: 139 stars today (Total: 131,802)
 
 ## Google News: AI Agents / AI Automation
 
-1. AI agents need their own identity before they need a gateway - Venturebeat
-   - Source: Venturebeat (Sun, 30 Aug 2026 23:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOemc1NjRCRWl6RG5CV2cya2hRYXY5THhhbmRBNVQwd0x4aXA0N0cyQm05Yi01bk9Kb2Zkd3YwUzkyYnVOMVA2U052TWl2Z21sZGRhVTJDT0ZlVTNEaFdLeERsc3lfeWY4NkI5OXZ0UjQwVVFCcjRzUHExN1FQdTl5TmhxX0xBR2lOOWJwWjJWUXdBN3kwemhtUA?oc=5
-2. AI Agent Payments And The Know Your Agent Compliance Layer - Forbes
-   - Source: Forbes (Sun, 30 Aug 2026 23:18:30 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkpTb2w5VWVlTkpqSi1heU9uTXNwdGpuV3g2RkpieUppckRuU0VSblJyNTk4TU5mNjlGQ1BrWEhMVUp6dnFwdFVZSlpNY25CamJIbmVZU1RwZ3o1MVJMaUlKZ0tTRW1CNUM3amVPczhKNlREVjFWUnlmNFA2TUFYMTB3OTNpVnJuVGNweEgyUkN5cVJRWWRsMHVDcGt0R0tSdXNOellKcHJMTF9XX3NsdjVIRTBpYXBad1E?oc=5
-3. AI agents are making retrieval engineering a core engineering discipline - The New Stack
-   - Source: The New Stack (Sun, 30 Aug 2026 16:01:18 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SVTRIVnRVeldrOE42aDRRUU5SYVI2a2FTNENwRzQySXlYTC1ockk0MGxwcnZXMDJNQVZQRFAzcFpZbkpUUm5DcXJjOEF5empjT3A2TEpSVEhLeExobzBEQWNUOU9odw?oc=5
-4. Four safeguards to stop your AI agents from going rogue - SiliconANGLE
-   - Source: SiliconANGLE (Sun, 30 Aug 2026 14:53:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXNtLUdSbF96dEZJbUl5YnFQM3ZIRUF3T1kzM3RCM1JHSGJjUUJ2amdVdUFCdXpnT1Q3eDB1X0xXR18wZDFISGc2aEZFWklmWXNNN1pKUTRZWmExNGxYYmRGSFdMNWtfdnVaWWV0LUZNaDBnUUVwblNwcjNWN1UzeVotVUVXQVJja0paaUtCSGpPdHhqSTVF?oc=5
-5. When Will You Trust an AI Agent Enough to Stop Watching It? - LinkedIn
-   - Source: LinkedIn (Sun, 30 Aug 2026 21:28:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2RxdXdieVJFNlRXZnhNZFV0cThpVTEtQmQ3c1NMZmxNMEJqYk9teERqR0NPSVROMXhuUDFwM0NPT1lFdXhLdFpmWGx4RGM5YXlCZ29sVWZWZE1XaWhiT2RyRGd4Y0ZXcDJkU0VTcTd6ZWxIanN6V2I5cEFqMU9iN3Y5MnE3SUIxYkljeFlKUnQ4TUxGZmxr?oc=5
-6. The Impostor in Your Environment is the AI Agent Holding a Valid Credential - HackerNoon
-   - Source: HackerNoon (Sun, 30 Aug 2026 20:50:22 GMT)
-   - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV05ZaGdHaUU2ZFVzQzFXQk5fUlVuR0M0N1BzNFBzQXpuajkxYTdiQnBjYzNObUx2WmpkaFg2V2lpTXZubHdLeXVtX3p4czBPRlJ1TTItZ254M0ZxSzZPUWl4MmFlN3M3MW81S1RqdklxVkhEOWRVQnZKLTVRVU00cW9RdExveHNiNEh5UGVwOVhSZldpNzVYb3d2WGRxcm8?oc=5
-7. AI agents have no sense of time and are not aware of it - the-decoder.com
-   - Source: the-decoder.com (Sun, 30 Aug 2026 13:20:01 GMT)
-   - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnctVF9hTnEwWmJDOXVkdW80Tzd4d3pQZWprdzM1RTVSOVJEbGJ5MWcyOUxmaS1oS1A1UFIwVTUybExTeHFoanhUQ19LcUZBcm1PZS1CMTNmTVc0MzdJclZCdzFRM2pQMW9zODlBWDV6dzVJekw0ellHcW5zclJKOHRiRGxCdEk?oc=5
-8. Manok, Joe, Clark U., speaks at AI Agents Academy - The Worcester Guardian
-   - Source: The Worcester Guardian (Sun, 30 Aug 2026 19:16:46 GMT)
-   - Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNSk5wejR4Rmt0cm9sSEZEWUowbjdua0tYcGY5Sm0xYTNDVkFEczJCUlRBTnlBQzhvdEszYkdrMHZZNWdkUGpkTzlneXljVmhXOHM5c21GUk1pbEprWDluX3Bfc3ZDOEJidnBlbU14WVBoc081UW1XbDBxbGdZbFlJYTd3SHlMOFNYNnQybl96VEFmaW44RmJLQ3l4Sm1JNVNuUzltMTU0dE9YeUZaZTBlTGV0VmQxc1I1WmhsdzZ1Rm1VbzFTcmtrWTI0RjcyU080OVVZWnExWldWLWFuM01RWG9vNU1RTzU3ck1PUUJfdWdfVktBb0dadmNEdXRZTWpLUU5xZW5FMA?oc=5
-9. Inside OpenAI’s Own Lab, AI Agents Talked Each Other Into Breaching Hugging Face - eGamers.io
-   - Source: eGamers.io (Mon, 31 Aug 2026 01:35:26 GMT)
-   - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVRBb3d1emk0RG5wLVR0bl9tQ290Q0U1YVJJM01naDJtREk5ejR4MUgzU0dqaW1rUWJPZmJlS0YxWUttM00yX0h6VWsycGpGaENFWFZfX2o4NmpVLUw1M3JfWTh5MWdlODh4NGgzVExkbE1QcjJEeUJpdXpwbVFSSnJKQ05aX0dkbXRodmx4UXR4dGxheFV0VXRveVpXZkk?oc=5
-10. Gimme a Smile: What has AI done for me lately? - Juneau Empire
-   - Source: Juneau Empire (Sat, 29 Aug 2026 12:30:26 GMT)
-   - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm1iQzhCNnZTWVBwRHNUZXI3bFpyN3g4eU81SU5Ca0lQSVZDOEd4aGFTcGVacW0tYU91eU9JRWFwV1lPeWYzZmhHNmdyRVFSN3lTZWR1cFdKME9LRkxwbUxCTERBNkhmR3llaExhdWR3ekpxZElONExVbXMzRmhPRV93c25WdWZRS0ZCU0R3?oc=5
 
 ## Google News: Micro-SaaS / Solopreneur
 
-1. As a solopreneur, how should I frame my AI assistant to clients? - Business of Home
+1. 5 Crazy Micro-SaaS Ideas 2026 From Facebook - blog.startupstash.com
+   - Source: blog.startupstash.com (Tue, 01 Sep 2026 13:16:01 GMT)
+   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxORGw3YjA5Ul9MVTRhOEF1X05UbmZtMWJKb2cxZEk4N2Nuby04SjlucGJFemwtR2xyVEtxd21QMVg1WlE4LTdsd0poenhqNEF4VjRKaGxZR0hYdTlVZnRpdUJPanVvSU5JVHpBRWVjU1BLSlh6Y0p2SGFVSk9GQk1MMUtreEZLLWFRVXRXZy1mVklZYUh3WFE4U09RTTU4c3N5NHlZaWRXeXNuWnNqcTJTdA?oc=5
+2. As a solopreneur, how should I frame my AI assistant to clients? - Business of Home
    - Source: Business of Home (Tue, 25 Aug 2026 16:56:44 GMT)
    - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm11bl9LSk5kVWtBQTk2TXRhbzVaOVdzZVk5UXJUMlhCNWpBZk1Oc216T0s3bzRyNUd5b2VucjRGd1k1dWQ1RldLQ09FS254cnhEeVNJWUVibkVsUmMyNTNjMWo2cjBkY3FucUhTQldpNHFLbFpmQjJNNzJBT2FhdUU5cVZpYnVISnlIMGlOcWlodXE2Y3BNLTNCb0w5UzQ?oc=5
-2. I quit my VP job to become a solopreneur. I don't need staff: AI agents handle everything from invoices to proposals. - Business Insider
+3. I quit my VP job to become a solopreneur. I don't need staff: AI agents handle everything from invoices to proposals. - Business Insider
    - Source: Business Insider (Tue, 03 Mar 2026 08:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnNuTktjd0xYSFhvRU12Rkljd09XZ243bUhGLXQ2ZjNIbWJqOU5FT0htem5aZGJJemJQRU9sa01WeGVNYXpQaThVU1p4ak9weEJhQ21qOG1BY2lpVUo4ZV9rWEcyendYZno2WE9GTWV1OFg5UHhiYUVVbUJ1UVMwMGpXcHQzVHlKZ3Y5bQ?oc=5
-3. Getting started with vibe coding as a solopreneur - Fast Company
+4. Getting started with vibe coding as a solopreneur - Fast Company
    - Source: Fast Company (Fri, 17 Jul 2026 07:00:00 GMT)
    - Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1BbWs2ekVkWGs4b3hWaGRuNjRwZWJubXdyYmVkV1B2RnVOQ01uTUxmSjRPb1dwUThpZFpaU0hBRTVwQVdTX2JMUGpTZGtvaVRYdlphcURXbmJ5bVZjZ3Q3VkpidFUzaVVUNlJWSnhxREpfWWVO?oc=5
-4. Ingenious indie hacker funds $3,000 MacBook purchase by selling advertising space on the lid — sticker space auction has already raised 111% of the price of the laptop - Yahoo Tech
-   - Source: Yahoo Tech (Thu, 27 Aug 2026 13:29:23 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHl2alNWVXVsd1RzQmFSNExZU3VhVEhGbDM2VHpNUUlxNWx1S2JDdk1qRHpXSUIwdmt0bmdOYnVuRTdINm5sYmZiVUZMVE5zN3pxMGJMMWkzUFRoWnVPMGl0VUx4aWZwREJ5clVHb1RIWGhKNmtQR1hDclB1SGEzOHVLV2FDeG5vUkE?oc=5
-5. Solopreneur America! - Small Business & Entrepreneurship Council
-   - Source: Small Business & Entrepreneurship Council (Mon, 22 Jun 2026 07:00:00 GMT)
-   - Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE55NlAyOTc3dW9IYjVlVUszSVRGV3hseWNHNmYtakQ1Z20xYmFLeWtPallGMFZ6YW1udFhGZ3lQZi1idlRRTFExWnF5cmtEVzFZUmhtV3RibUw5UklkWEF1a3hqUTY?oc=5
+5. How Vibe Coding Changed the Way I Run My Business (and Why Every Solopreneur Should Try It) - entrepreneur.com
+   - Source: entrepreneur.com (Mon, 31 Aug 2026 18:32:52 GMT)
+   - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQWJmeUk2bTAxSUJzTjNJLUlGZWFxOTJiWHlVVnUyc3VydHFBZE5IUjVvVnN5cVlWMWE2SmczVGpGZUJhbG5ycTRHdDQtMDlYeWF4UWZHUl9hd0FDNVBmTzMyN0pISm9NR21CRjByTHQwamc3MklLWVFqLTNPb0p5WWExWHNfT0Z6QTN2QnQzQkxKaWlUZ2UwQ1FqVm1Rd04zWnFVb2ppVDRCcU1jQjZQUmZDSEZCaEdhdktweTAxa3pES0NTcTdvUmw0ZW9KNEtrQUJj?oc=5
